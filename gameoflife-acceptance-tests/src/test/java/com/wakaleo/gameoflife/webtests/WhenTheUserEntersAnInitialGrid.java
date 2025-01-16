@@ -97,3 +97,4 @@ public class WhenTheUserEntersAnInitialGrid {
         player.should_see_a_page_containing_text("Welcome to Conway's Game Of Life");
     }
 }
+}}}
